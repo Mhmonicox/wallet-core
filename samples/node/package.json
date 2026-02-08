@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@trustwallet/wallet-core": "3.0.1"
+    "@trustwallet/wallet-core": "3.3.3"
   }
 }
